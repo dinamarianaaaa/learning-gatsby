@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://naughty-clarke-3713f1.netlify.app/",
-    "contentApiKey": "01420f5242176c07215ceb67ba"
+    "apiUrl": "https://dinamariana.ghost.io",
+    "contentApiKey": "bf146855c02a25e7ad8a5a6636"
   },
   "production": {
-    "apiUrl": "https://naughty-clarke-3713f1.netlify.app/",
-    "contentApiKey": "01420f5242176c07215ceb67ba"
+    "apiUrl": "https://dinamariana.ghost.io",
+    "contentApiKey": "bf146855c02a25e7ad8a5a6636"
   }
 }
